@@ -1,0 +1,49 @@
+body {
+  background-color: whitesmoke !important;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.small.margin {
+  margin: 10px 0 !important;
+}
+
+.small.padding {
+  padding: 10px !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
+
+.word-wrap {
+  word-wrap: break-word !important;
+}
+
+
+
+.quickBet > .content {
+  text-align: center !important;
+}
+
+.quickBet > .actions {
+  text-align: center !important;
+}
+
+.quickBet > .content > button {
+  margin-top: 5px;
+}
+
+.toast {
+  display: block;
+  position: fixed !important;
+  bottom: 25px !important;
+  right: 25px !important;
+  z-index: 100 !important;
+}
